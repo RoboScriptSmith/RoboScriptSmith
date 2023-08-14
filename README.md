@@ -1,4 +1,4 @@
-![logo](https://github.com/RoboScriptSmith/RoboScriptSmith/blob/main/Black%20Blue%20Simple%20Gaming%20Banner%20Landscape.png)
+![logo](https://github.com/RoboScriptSmith/RoboScriptSmith/blob/main/1.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Aditya Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
