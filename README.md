@@ -1,4 +1,4 @@
-![logo](https://github.com/RoboScriptSmith/RoboScriptSmith/blob/main/1.png?raw=true)
+![logo](https://raw.githubusercontent.com/RoboScriptSmith/RoboScriptSmith/main/rotate%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Aditya Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
